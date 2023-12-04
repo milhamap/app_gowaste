@@ -1,0 +1,49 @@
+.tengah {
+    text-align: center;
+}
+.main-content {
+    background-image: url('/assets/img/component/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-attachment: fixed;
+}
+.login-aside {
+    background-image: url('/assets/img/component/background%20blur.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+    width: 50%;
+}
+.logo {
+    padding-top: 5%;
+    padding-bottom: auto;
+}
+.image {
+    padding-top: 10%;
+}
+#body-login {
+    background-image: url('/assets/img/component/background%20blur.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/* .title a {
+    text-decoration: none;
+} */
+.form-group input {
+    border-radius: 2rem;
+}
+.form-group button {
+    border-radius: 2rem;
+}
+#cs {
+    text-decoration: none;
+}
+#daftar {
+    text-decoration: none;
+}
+.form-group select {
+    border-radius: 2rem;
+}
